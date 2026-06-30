@@ -84,8 +84,28 @@ Google Data Studio/Looker: [Google Public View](https://datastudio.google.com/re
 
 Tableau Public: [Tableau Public Link](https://public.tableau.com/views/CacaoViz_Tableau/Bottom10CompaniesandthierResourceUsage?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-
+![Factors Contributing to High Ratings](readMeFiles/CacaoViz_1.png)
+![Top 10 Companies](readMeFiles/CacaoViz_2.png)
+![Bottom 10 Companies](readMeFiles/CacaoViz_3.png)
 
 ## Summary of Key Findings
+- Amedei Chocolate Company, Idilio (Felchlin), Matale, Patric, and Benoit Nihant are the ideal companies. They utilize resources from all components that are considered to be the ‘best’.​
+- When including those entries that met all criteria for higher ratings, only six were returned. From those six entries, two scored a perfect 5.0.​
+- The bottom ten companies all scored between 2.5 - 2.7. None met the criteria of fulfilling all ‘best’ factors in their chocolate bars. None were from desirable locations. These companies did not employ these components in the right combinations.
+
+- The companies that decide to factor in more components from the best features are likely going to be the most successful in the long term.​
+
+​
+
+- Location seems to be the most important factor in the manufacturing process, with cocoa percentage being the least.​
+- The top ten companies are at the top because they employ the use of the best resources possible.​
+- If more companies used different Broad Bean Origins (located in the best top ten) and Bean Types (Best top five), they would receive better ratings in the long run.​
+
 
 ## Recommendations & Next Steps
+1. **Company Location**
+    - 3/10 top companies were in desired locations, while 0/10 bottom companies found. All companies should take advantage of the 'best' locations to manufacture chocolate and allocate resources there.​
+2. **Underutilized Resources**
+    - All companies should utilize the lesser used 'best' resources. Amazon, Criollo are hardly used Bean Types. Vietnam and Sao Tome are underutilized Broad Bean Origins. Etc.​
+3. **Improving Ratings**
+    - Companies begin to exclusively choose from the objective best resources to maximize ratings. For those tight on resources, choose from the most critical factors (Location (3/10 top), ​Bean Origin(5/10 top))
