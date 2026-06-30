@@ -21,7 +21,17 @@ Dataset from Kaggle: [Kaggle Dataset](https://www.kaggle.com/datasets/rtatman/ch
 **Source:** Public data from Kaggle
 **File Name:** flavors_of_cacao.csv
 
-
+| Column Name | Description | Data Type |
+| ------------- | ------------- | ------------- |
+| Company | Chocolate Bar manufacturer | object |
+| Specific Bean Origin | specific geolocation of bean | object |
+| REF | when the review was entered into the database | int |
+| Review Date | date review was published | object |
+| Cocoa Percent | percentage of chocolate bar | object |
+| Company Location | manufacturer base company | object |
+| Rating | rating out of 5 | float |
+| Bean Type | variety of bean used | object |
+| Broad Bean Origin | broad geolocation of bean | object |
 
 ## Methodology
 
